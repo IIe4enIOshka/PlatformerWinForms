@@ -1,0 +1,9 @@
+c:\users\alexey\documents\visual studio 2013\Projects\Platform\Platform\bin\Debug\Platform.exe.config
+c:\users\alexey\documents\visual studio 2013\Projects\Platform\Platform\bin\Debug\Platform.exe
+c:\users\alexey\documents\visual studio 2013\Projects\Platform\Platform\bin\Debug\Platform.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\Platform\Platform\obj\Debug\Platform.csprojResolveAssemblyReference.cache
+c:\users\alexey\documents\visual studio 2013\Projects\Platform\Platform\obj\Debug\Platform.Form1.resources
+c:\users\alexey\documents\visual studio 2013\Projects\Platform\Platform\obj\Debug\Platform.Properties.Resources.resources
+c:\users\alexey\documents\visual studio 2013\Projects\Platform\Platform\obj\Debug\Platform.csproj.GenerateResource.Cache
+c:\users\alexey\documents\visual studio 2013\Projects\Platform\Platform\obj\Debug\Platform.exe
+c:\users\alexey\documents\visual studio 2013\Projects\Platform\Platform\obj\Debug\Platform.pdb
